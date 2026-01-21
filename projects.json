@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Payroll App",
+    "url": "https://github.com/Favour-Udi/Payroll-App",
+    "tags": [
+      "Java",
+      "Spring Boot"
+    ],
+    "summary": ""
+  },
+  {
+    "name": "Office Directory API",
+    "url": "https://github.com/Favour-Udi/Office-Directory-Api",
+    "tags": [
+      "Java",
+      "Spring Boot"
+    ],
+    "summary": ""
+  },
+  {
+    "name": "Instant Messaging API",
+    "url": "https://github.com/Favour-Udi/Instant-Messaging-Api",
+    "tags": [
+      "Java",
+      "Spring"
+    ],
+    "summary": ""
+  }
+]
